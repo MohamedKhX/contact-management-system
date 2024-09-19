@@ -1,0 +1,47 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-09-08 12:48:05.365608",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "spoken_language",
+  "column_break_veqy",
+  "level"
+ ],
+ "fields": [
+  {
+   "fieldname": "spoken_language",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Spoken Language",
+   "options": "SpokenLanguage",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_veqy",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "level",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Level",
+   "options": "LanguageLevel",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-09-19 14:42:59.165057",
+ "modified_by": "Administrator",
+ "module": "Contact Management System",
+ "name": "ContactSpokenLanguage",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}
