@@ -1,0 +1,293 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:first_name",
+ "creation": "2024-09-05 15:28:56.150294",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "public_info_section",
+  "first_name",
+  "middle_name",
+  "last_name",
+  "type",
+  "column_break_fakc",
+  "city",
+  "country",
+  "nearest_mosque",
+  "nearest_school",
+  "personal_info_section",
+  "national_number",
+  "birthday",
+  "educational_level",
+  "column_break_mrup",
+  "nationality",
+  "gender",
+  "employment_status",
+  "organization_info_section",
+  "founded_on",
+  "column_break_cuik",
+  "manager_name",
+  "column_break_lest",
+  "organization_type",
+  "contact_info_section",
+  "contact_phones",
+  "contact_emails",
+  "contact_websites",
+  "activities_tab",
+  "activities",
+  "specialties_tab",
+  "specialties",
+  "skills_tab",
+  "section_break_kqpi",
+  "skills",
+  "languages_tab",
+  "spoken_languages",
+  "reports_tab",
+  "reports"
+ ],
+ "fields": [
+  {
+   "fieldname": "public_info_section",
+   "fieldtype": "Section Break",
+   "label": "Public Info"
+  },
+  {
+   "fieldname": "first_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "First Name",
+   "reqd": 1,
+   "unique": 1
+  },
+  {
+   "fieldname": "middle_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Middle Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "last_name",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Last Name",
+   "reqd": 1
+  },
+  {
+   "fieldname": "type",
+   "fieldtype": "Link",
+   "in_list_view": 1,
+   "label": "Type",
+   "options": "ContactType",
+   "reqd": 1
+  },
+  {
+   "fieldname": "column_break_fakc",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "city",
+   "fieldtype": "Data",
+   "label": "City"
+  },
+  {
+   "fieldname": "country",
+   "fieldtype": "Data",
+   "label": "Country"
+  },
+  {
+   "fieldname": "nearest_mosque",
+   "fieldtype": "Data",
+   "label": "Nearest Mosque"
+  },
+  {
+   "fieldname": "nearest_school",
+   "fieldtype": "Data",
+   "label": "Nearest School"
+  },
+  {
+   "depends_on": "eval:doc.type === 'Person';",
+   "fieldname": "personal_info_section",
+   "fieldtype": "Section Break",
+   "label": "Personal Info"
+  },
+  {
+   "fieldname": "national_number",
+   "fieldtype": "Data",
+   "label": "National Number"
+  },
+  {
+   "fieldname": "birthday",
+   "fieldtype": "Date",
+   "label": "Birthday"
+  },
+  {
+   "fieldname": "educational_level",
+   "fieldtype": "Link",
+   "label": "Educationa Level",
+   "options": "EducationLevel"
+  },
+  {
+   "fieldname": "column_break_mrup",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "nationality",
+   "fieldtype": "Data",
+   "label": "Nationality"
+  },
+  {
+   "fieldname": "gender",
+   "fieldtype": "Select",
+   "label": "Gender",
+   "options": "Male\nFemale"
+  },
+  {
+   "fieldname": "employment_status",
+   "fieldtype": "Link",
+   "label": "Employment Status",
+   "options": "EmploymentStatus"
+  },
+  {
+   "depends_on": "eval:doc.type === 'Organization';",
+   "fieldname": "organization_info_section",
+   "fieldtype": "Section Break",
+   "label": "Organization Info"
+  },
+  {
+   "fieldname": "founded_on",
+   "fieldtype": "Date",
+   "label": "Founded On"
+  },
+  {
+   "fieldname": "column_break_cuik",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "manager_name",
+   "fieldtype": "Data",
+   "label": "Manager Name"
+  },
+  {
+   "fieldname": "column_break_lest",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "organization_type",
+   "fieldtype": "Link",
+   "label": "Organization Type",
+   "options": "OrganizationType"
+  },
+  {
+   "fieldname": "contact_info_section",
+   "fieldtype": "Section Break",
+   "label": "Contact Info"
+  },
+  {
+   "fieldname": "contact_phones",
+   "fieldtype": "Table",
+   "label": "Contact Phones",
+   "options": "ContactX Phone"
+  },
+  {
+   "fieldname": "contact_emails",
+   "fieldtype": "Table",
+   "label": "Contact Emails",
+   "options": "ContactX Email"
+  },
+  {
+   "fieldname": "contact_websites",
+   "fieldtype": "Table",
+   "label": "Contact Websites",
+   "options": "ContactX Website"
+  },
+  {
+   "fieldname": "activities_tab",
+   "fieldtype": "Tab Break",
+   "label": "Activities"
+  },
+  {
+   "fieldname": "activities",
+   "fieldtype": "Table",
+   "label": "Activities",
+   "options": "Activity"
+  },
+  {
+   "fieldname": "specialties_tab",
+   "fieldtype": "Tab Break",
+   "label": "Specialties"
+  },
+  {
+   "fieldname": "specialties",
+   "fieldtype": "Table",
+   "label": "Specialties",
+   "options": "ContactSpecialty"
+  },
+  {
+   "depends_on": "eval:doc.type === 'Person';",
+   "fieldname": "skills_tab",
+   "fieldtype": "Tab Break",
+   "label": "Skills"
+  },
+  {
+   "depends_on": "eval:doc.type === 'Person';",
+   "fieldname": "section_break_kqpi",
+   "fieldtype": "Section Break"
+  },
+  {
+   "fieldname": "skills",
+   "fieldtype": "Table",
+   "label": "Skills",
+   "options": "ContactSkill"
+  },
+  {
+   "depends_on": "eval:doc.type === 'Person';",
+   "fieldname": "languages_tab",
+   "fieldtype": "Tab Break",
+   "label": "Languages"
+  },
+  {
+   "fieldname": "spoken_languages",
+   "fieldtype": "Table",
+   "label": "Spoken Languages",
+   "options": "ContactSpokenLanguage"
+  },
+  {
+   "fieldname": "reports_tab",
+   "fieldtype": "Tab Break",
+   "label": "Reports"
+  },
+  {
+   "fieldname": "reports",
+   "fieldtype": "Table",
+   "label": "Reports",
+   "options": "ContactReport"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-09-30 13:39:37.635913",
+ "modified_by": "Administrator",
+ "module": "Contact Management System",
+ "name": "ContactX",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "creation",
+ "sort_order": "DESC",
+ "states": []
+}
