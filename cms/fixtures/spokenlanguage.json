@@ -1,0 +1,44 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "SpokenLanguage",
+  "language": "Arabic",
+  "modified": "2024-09-08 13:13:12.222621",
+  "name": "Arabic"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "SpokenLanguage",
+  "language": "English",
+  "modified": "2024-09-08 13:13:19.226115",
+  "name": "English"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "SpokenLanguage",
+  "language": "Russian",
+  "modified": "2024-09-08 13:13:25.149941",
+  "name": "Russian"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "SpokenLanguage",
+  "language": "German",
+  "modified": "2024-09-08 13:13:31.309285",
+  "name": "German"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "SpokenLanguage",
+  "language": "French",
+  "modified": "2024-09-08 13:13:36.218446",
+  "name": "French"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "SpokenLanguage",
+  "language": "Spanish",
+  "modified": "2024-09-08 13:13:41.908853",
+  "name": "Spanish"
+ }
+]

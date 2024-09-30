@@ -5,6 +5,19 @@ app_description = "Contact Management System"
 app_email = "muhamedkhx2@gmail.com"
 app_license = "mit"
 
+fixtures = [
+	{"dt": "SpokenLanguage"},
+	{"dt": "Skill"},
+	{"dt": "Specialty"},
+	{"dt": "ActivityType"},
+	{"dt": "EmploymentStatus"},
+	{"dt": "OrganizationType"},
+	{"dt": "LanguageLevel"},
+	{"dt": "ContactType"},
+	{"dt": "EducationLevel"},
+	{"dt": "WorkSpace"},
+]
+
 # Apps
 # ------------------
 
@@ -241,4 +254,3 @@ app_license = "mit"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-

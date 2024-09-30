@@ -1,0 +1,142 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Employed",
+  "modified": "2024-09-07 16:00:02.744769",
+  "name": "Employed"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Unemployed",
+  "modified": "2024-09-07 16:00:10.291935",
+  "name": "Unemployed"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Retired",
+  "modified": "2024-09-07 16:00:23.293265",
+  "name": "Retired"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Fired",
+  "modified": "2024-09-07 16:00:36.152478",
+  "name": "Fired"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Contracted",
+  "modified": "2024-09-07 16:00:42.845725",
+  "name": "Contracted"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Temporary",
+  "modified": "2024-09-07 16:00:50.218874",
+  "name": "Temporary"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Permanent",
+  "modified": "2024-09-07 16:00:57.302467",
+  "name": "Permanent"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Part-time",
+  "modified": "2024-09-07 16:01:05.624067",
+  "name": "Part-time"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Full-time",
+  "modified": "2024-09-07 16:01:13.233123",
+  "name": "Full-time"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Freelancer",
+  "modified": "2024-09-07 16:01:19.324159",
+  "name": "Freelancer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Intern",
+  "modified": "2024-09-07 16:01:25.119645",
+  "name": "Intern"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Volunteer",
+  "modified": "2024-09-07 16:01:31.462058",
+  "name": "Volunteer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Early Retired",
+  "modified": "2024-09-07 16:01:38.219881",
+  "name": "Early Retired"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Medically Retired",
+  "modified": "2024-09-07 16:01:44.817610",
+  "name": "Medically Retired"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Retired for Personal Reasons",
+  "modified": "2024-09-07 16:01:52.424249",
+  "name": "Retired for Personal Reasons"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Age Retired",
+  "modified": "2024-09-07 16:02:00.066797",
+  "name": "Age Retired"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Mutually Agreed Retirement",
+  "modified": "2024-09-07 16:02:07.916528",
+  "name": "Mutually Agreed Retirement"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Forced Retirement",
+  "modified": "2024-09-07 16:02:14.994553",
+  "name": "Forced Retirement"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Retired through Early Retirement",
+  "modified": "2024-09-07 16:02:22.639188",
+  "name": "Retired through Early Retirement"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EmploymentStatus",
+  "employment_status": "Retired through Voluntary Retirement",
+  "modified": "2024-09-07 16:02:30.397550",
+  "name": "Retired through Voluntary Retirement"
+ }
+]

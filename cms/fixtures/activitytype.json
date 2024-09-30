@@ -1,0 +1,79 @@
+[
+ {
+  "activity_type": "Opening",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:10:44.621726",
+  "name": "Opening"
+ },
+ {
+  "activity_type": "Course",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:10:50.007520",
+  "name": "Course"
+ },
+ {
+  "activity_type": "Lecture",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:10:55.599189",
+  "name": "Lecture"
+ },
+ {
+  "activity_type": "Workshop",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:11:00.955019",
+  "name": "Workshop"
+ },
+ {
+  "activity_type": "Competition",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:11:06.924767",
+  "name": "Competition"
+ },
+ {
+  "activity_type": "Conference",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:11:12.649342",
+  "name": "Conference"
+ },
+ {
+  "activity_type": "Symposium",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:11:18.397166",
+  "name": "Symposium"
+ },
+ {
+  "activity_type": "Play",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:11:25.255065",
+  "name": "Play"
+ },
+ {
+  "activity_type": "Ceremony",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:11:31.539982",
+  "name": "Ceremony"
+ },
+ {
+  "activity_type": "Festival",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:11:37.492449",
+  "name": "Festival"
+ },
+ {
+  "activity_type": "Exhibition",
+  "docstatus": 0,
+  "doctype": "ActivityType",
+  "modified": "2024-09-08 13:11:43.599096",
+  "name": "Exhibition"
+ }
+]

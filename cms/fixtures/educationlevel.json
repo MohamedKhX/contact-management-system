@@ -1,0 +1,72 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "Primary Education",
+  "modified": "2024-09-07 14:34:52.890110",
+  "name": "Primary Education"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "Preparatory Education",
+  "modified": "2024-09-07 14:35:00.952544",
+  "name": "Preparatory Education"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "Secondary Education",
+  "modified": "2024-09-07 14:35:07.857580",
+  "name": "Secondary Education"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "Average Institute",
+  "modified": "2024-09-07 14:35:14.614884",
+  "name": "Average Institute"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "High Institute",
+  "modified": "2024-09-07 14:35:21.153759",
+  "name": "High Institute"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "University Education",
+  "modified": "2024-09-07 14:35:31.304869",
+  "name": "University Education"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "Master Degree",
+  "modified": "2024-09-07 14:35:38.335550",
+  "name": "Master Degree"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "Doctorate Degree",
+  "modified": "2024-09-07 14:35:45.938797",
+  "name": "Doctorate Degree"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "Vocational",
+  "modified": "2024-09-07 14:36:01.448224",
+  "name": "Vocational"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "EducationLevel",
+  "education_level": "Other",
+  "modified": "2024-09-07 14:36:11.473470",
+  "name": "Other"
+ }
+]

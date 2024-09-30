@@ -1,0 +1,113 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"OI5ghPkmzp\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Statistics</span>\",\"col\":12}},{\"id\":\"4SUzh2hwDN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"People\",\"col\":3}},{\"id\":\"ZRQRy-Z_D7\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Organizations\",\"col\":3}},{\"id\":\"xM-dsaan1H\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Employment Status\",\"col\":3}},{\"id\":\"JuovB-sKHA\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Specialties\",\"col\":3}},{\"id\":\"YAECRVIKw2\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Skills\",\"col\":3}},{\"id\":\"hfBIxKxDJI\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Spoken Languages\",\"col\":3}},{\"id\":\"WAWFEVzdJk\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Education Levels\",\"col\":3}},{\"id\":\"NMoP910Tec\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Activity Types\",\"col\":3}},{\"id\":\"1l0KKj_zeD\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Members\",\"col\":4}},{\"id\":\"MUzRqF9cgR\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total People\",\"col\":4}},{\"id\":\"WJt7Y7l4yK\",\"type\":\"number_card\",\"data\":{\"number_card_name\":\"Total Organizations\",\"col\":4}},{\"id\":\"5AMBIqnEtG\",\"type\":\"quick_list\",\"data\":{\"quick_list_name\":\"Contacts\",\"col\":12}}]",
+ "creation": "2024-09-19 15:20:12.537001",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "retail",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Statistics",
+ "links": [],
+ "modified": "2024-09-30 13:22:07.864687",
+ "modified_by": "Administrator",
+ "module": "Contact Management System",
+ "name": "Statistics",
+ "number_cards": [
+  {
+   "label": "Total Members",
+   "number_card_name": "Total Members"
+  },
+  {
+   "label": "Total People",
+   "number_card_name": "Total People"
+  },
+  {
+   "label": "Total Organizations",
+   "number_card_name": "Total Organizations"
+  }
+ ],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [
+  {
+   "document_type": "ContactX",
+   "label": "Contacts",
+   "quick_list_filter": "[]"
+  }
+ ],
+ "roles": [],
+ "sequence_id": 1.0,
+ "shortcuts": [
+  {
+   "color": "Orange",
+   "doc_view": "List",
+   "label": "People",
+   "link_to": "ContactX",
+   "stats_filter": "[[\"ContactX\",\"type\",\"=\",\"Person\",false]]",
+   "type": "DocType"
+  },
+  {
+   "color": "Orange",
+   "doc_view": "List",
+   "label": "Specialties",
+   "link_to": "Specialty",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Orange",
+   "doc_view": "List",
+   "label": "Employment Status",
+   "link_to": "EmploymentStatus",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Orange",
+   "doc_view": "List",
+   "label": "Organizations",
+   "link_to": "ContactX",
+   "stats_filter": "[[\"ContactX\",\"type\",\"=\",\"Organization\",false]]",
+   "type": "DocType"
+  },
+  {
+   "color": "Yellow",
+   "doc_view": "List",
+   "label": "Skills",
+   "link_to": "Skill",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Yellow",
+   "doc_view": "List",
+   "label": "Activity Types",
+   "link_to": "ActivityType",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Yellow",
+   "doc_view": "List",
+   "label": "Spoken Languages",
+   "link_to": "SpokenLanguage",
+   "stats_filter": "[]",
+   "type": "DocType"
+  },
+  {
+   "color": "Yellow",
+   "doc_view": "List",
+   "label": "Education Levels",
+   "link_to": "EducationLevel",
+   "stats_filter": "[]",
+   "type": "DocType"
+  }
+ ],
+ "title": "Statistics"
+}

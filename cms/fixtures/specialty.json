@@ -1,0 +1,30 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Specialty",
+  "modified": "2024-09-08 13:12:11.950189",
+  "name": "Mathematics",
+  "specialty": "Mathematics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Specialty",
+  "modified": "2024-09-08 13:12:17.656592",
+  "name": "Physics",
+  "specialty": "Physics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Specialty",
+  "modified": "2024-09-08 13:12:23.323728",
+  "name": "Chemistry",
+  "specialty": "Chemistry"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Specialty",
+  "modified": "2024-09-08 13:12:31.936829",
+  "name": "Arabic Language",
+  "specialty": "Arabic Language"
+ }
+]

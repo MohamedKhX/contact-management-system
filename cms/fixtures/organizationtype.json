@@ -1,0 +1,16 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "OrganizationType",
+  "modified": "2024-09-07 14:38:53.248069",
+  "name": "Public",
+  "organization_type": "Public"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "OrganizationType",
+  "modified": "2024-09-07 14:38:58.373766",
+  "name": "Private",
+  "organization_type": "Private"
+ }
+]

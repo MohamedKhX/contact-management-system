@@ -1,0 +1,37 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "LanguageLevel",
+  "language_level": "Basic",
+  "modified": "2024-09-07 14:38:16.274435",
+  "name": "Basic"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "LanguageLevel",
+  "language_level": "Intermediate",
+  "modified": "2024-09-07 14:38:21.804098",
+  "name": "Intermediate"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "LanguageLevel",
+  "language_level": "Advanced",
+  "modified": "2024-09-07 14:38:27.081456",
+  "name": "Advanced"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "LanguageLevel",
+  "language_level": "Fluent",
+  "modified": "2024-09-07 14:38:32.358685",
+  "name": "Fluent"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "LanguageLevel",
+  "language_level": "Native",
+  "modified": "2024-09-07 14:38:38.045100",
+  "name": "Native"
+ }
+]

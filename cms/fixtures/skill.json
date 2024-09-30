@@ -1,0 +1,114 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:05:46.924232",
+  "name": "Programmer",
+  "skill": "Programmer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:05:53.623554",
+  "name": "Designer",
+  "skill": "Designer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:05:59.209400",
+  "name": "Manager",
+  "skill": "Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:06:05.364620",
+  "name": "Analyst",
+  "skill": "Analyst"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:06:12.047587",
+  "name": "Tester",
+  "skill": "Tester"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:06:18.251945",
+  "name": "Architect",
+  "skill": "Architect"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:06:35.718233",
+  "name": "Network Engineer",
+  "skill": "Network Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:06:48.690625",
+  "name": "Security Specialist",
+  "skill": "Security Specialist"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:06:57.154526",
+  "name": "System Administrator",
+  "skill": "System Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:07:05.671912",
+  "name": "Data Scientist",
+  "skill": "Data Scientist"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:07:13.082120",
+  "name": "AI Specialist",
+  "skill": "AI Specialist"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:07:22.595556",
+  "name": "DevOps Engineer",
+  "skill": "DevOps Engineer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:07:29.232370",
+  "name": "Front-end Developer",
+  "skill": "Front-end Developer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:07:37.929713",
+  "name": "Back-end Developer",
+  "skill": "Back-end Developer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:07:45.822853",
+  "name": "Full-stack Developer",
+  "skill": "Full-stack Developer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Skill",
+  "modified": "2024-09-08 13:07:57.245663",
+  "name": "UX/UI Designer",
+  "skill": "UX/UI Designer"
+ }
+]

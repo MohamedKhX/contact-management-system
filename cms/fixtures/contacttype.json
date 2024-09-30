@@ -1,0 +1,16 @@
+[
+ {
+  "contact_type": "Person",
+  "docstatus": 0,
+  "doctype": "ContactType",
+  "modified": "2024-09-07 14:36:34.280294",
+  "name": "Person"
+ },
+ {
+  "contact_type": "Organization",
+  "docstatus": 0,
+  "doctype": "ContactType",
+  "modified": "2024-09-07 14:36:39.597267",
+  "name": "Organization"
+ }
+]
