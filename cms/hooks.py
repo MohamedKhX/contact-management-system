@@ -16,6 +16,7 @@ fixtures = [
 	{"dt": "ContactType"},
 	{"dt": "EducationLevel"},
 	{"dt": "WorkSpace"},
+	{"dt": "Number Card"},
 ]
 
 # Apps
